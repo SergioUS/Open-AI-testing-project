@@ -1,1 +1,0 @@
-# QA-Open_AI_Project
