@@ -2,8 +2,14 @@
 
 <div align="center">
 
-<img src=https://github.com/SerineGit/Open-AI-testing-project/blob/main/gpt-robot.gif />
-[![CLICK HERE](https://img.shields.io/badge/CLICK_HERE-blue?style=for-the-badge)](https://serinegit.github.io/Open-AI-page/)
+
+### 🎉 **Don't Like Boring READMEs?** 
+
+**Visit Our Interactive Project Page!** ✨
+
+<a href="https://serinegit.github.io/Open-AI-page" target="_blank">
+<img src="https://img.shields.io/badge/🌟%20Interactive%20Page-Visit%20Now!-FF6B6B?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=4ECDC4" alt="Interactive Project Page" />
+</a>
 
 
 
